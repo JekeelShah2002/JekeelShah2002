@@ -1,33 +1,34 @@
-### Hi there, I'm Jekeel 👋
+# Hi, I'm Jekeel👋 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=JekeelShah2002)
+**CS Graduate Student @ CSUF | Aspiring ML Engineer**
 
-- I am a Computer Science Graduate student at California State University, Fullerton
-- Looking for Entry Level Artificial Intelligence / Machine Learning Roles!
-- Just mail me whenever you need me🤞
+- 🎓 Pursuing MS in Computer Science at California State University, Fullerton.
+- 🤖 Specialized in Machine Learning and Predictive Modeling.
+- 💼 Previous Internships: Jio Platforms (ML) & Reliance Industries (SWE).
+- ✉️ [jekeelshah2002@gmail.com](mailto:jekeelshah2002@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JekeelShah2002&show_icons=true&theme=radical)
+---
 
+### 🛠️ Technical Arsenal
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekeelShah2002&theme=radical)
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| **Backend / API** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=google-cloud) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-### 🛠️ Languages and Tools:
+---
+
+### 📊 GitHub Analytics
+
+![Jekeel's Stats](https://github-readme-stats.vercel.app/api?username=JekeelShah2002&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JekeelShah2002&theme=radical&layout=compact&hide=html,css)
+
+---
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="C++" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jekeelshah2002/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jekeelshah2002@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jekeelshah.vercel.app" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
+  <a href="mailto:jekeelshah2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jekeelshah2002/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jekeelshah.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
