@@ -1,6 +1,6 @@
 ### Hi there, I'm Jekeel 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JekeelShah-20CS080)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JekeelShah2002)
 
 - I am a Computer Science student at CHARUSAT University
 - I am currently EXPLORING!😶
