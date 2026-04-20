@@ -1,6 +1,6 @@
 ### Hi there, I'm Jekeel 👋
 
-![visitors](![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=JekeelShah2002))
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=JekeelShah2002)
 
 - I am a Computer Science Graduate student at California State University, Fullerton
 - Looking for Entry Level Artificial Intelligence / Machine Learning Roles!
