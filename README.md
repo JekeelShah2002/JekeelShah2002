@@ -1,9 +1,9 @@
 ### Hi there, I'm Jekeel 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JekeelShah2002)
+![visitors](![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=JekeelShah2002))
 
-- I am a Computer Science student at CHARUSAT University
-- I am currently EXPLORING!😶
+- I am a Computer Science Graduate student at California State University, Fullerton
+- Looking for Entry Level Artificial Intelligence / Machine Learning Roles!
 - Just mail me whenever you need me🤞
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JekeelShah2002&show_icons=true&theme=radical)
